@@ -1,4 +1,4 @@
-# Google Ads Integration
+# Personal Google Ads Reporting
 
 Private, single-operator integration with the Google Ads API, operated by
 César Carro — an independent paid media specialist — to read and analyze
